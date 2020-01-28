@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "306847875106",
+    "firebase_url": "https://uitesting-737ce.firebaseio.com",
+    "project_id": "uitesting-737ce",
+    "storage_bucket": "uitesting-737ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306847875106:android:b890bee0ffc57ee5868a7b",
+        "android_client_info": {
+          "package_name": "com.fisal.uitesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306847875106-ul5qlo8e1d8u7ri5ke7kc28rtuqp835e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbP1DR1LPNy8nM9wBsYYsI-HNtbaeX8Ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306847875106-ul5qlo8e1d8u7ri5ke7kc28rtuqp835e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
