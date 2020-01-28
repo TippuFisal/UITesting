@@ -16,6 +16,7 @@ class MainActivityTest{
     fun testActivityNavigation() {
         val activityScenario = ActivityScenario.launch(MainActivity::class.java)
 
+
         onView(withId(R.id.mainactivity_button)).perform(click())
         onView(withId(R.id.secondactivity)).check(matches(isDisplayed()))
 

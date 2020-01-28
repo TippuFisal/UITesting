@@ -27,7 +27,7 @@ class SecondActivityTest{
     fun testActivityTextButton() {
         onView(withId(R.id.secondactivity_button)).check(matches(isDisplayed()))
 
-        onView(withId(R.id.secondactivity_textview)).check(matches(withEffectiveVisibility(Visibility.GONE)))
+        onView(withId(R.id.secondactivity_textview)).check(matches(withEffectiveVisibility(Visibility.VISIBLE)))
 
     }
 
