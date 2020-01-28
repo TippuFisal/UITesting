@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UITesting</string>
+    <string name="hello">Hello World</string>
+    <string name="Backbtn">Back Button</string>
+    <string name="Nextbtn">Next Button</string>
+    <string name="SecondActivity">Second Activity</string>
+</resources>
